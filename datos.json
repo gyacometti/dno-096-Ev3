@@ -4,7 +4,7 @@
         "fecha": "1999-2002",
         "descripcion": "Sigue a Coraje, un perro tímido que vive con sus dueños en un pueblo desolado. A pesar de su naturaleza asustadiza, enfrenta todo tipo de criaturas y fenómenos sobrenaturales para proteger a sus amos. Esta serie es conocida por su mezcla de horror, comedia y surrealismo.",
         "signo": "90s",
-        "foto": "img/1.png",
+        "foto": "https://raw.githubusercontent.com/gyacometti/dno-096-Ev3/9274d21f042e4b0ce96d2a7994ca7df98bac4f53/img/1.png",
         "fotos":["coraje-1.png","coraje-2.png","coraje-3.png"],
         "github": "https://github.com/gyacometti"
     },
@@ -85,7 +85,7 @@
         "fecha": "1998-2005",
         "descripcion":"Bombon, Burbuja y Bellota son tres hermanas con superpoderes que protegen Ciudad Saltadilla de villanos. La serie combina acción, comedia y lecciones de empoderamiento, con personajes memorables y situaciones divertidas.",
         "signo": "90s",
-        "foto": "img/10.png",
+        "foto": "https://raw.githubusercontent.com/gyacometti/dno-096-Ev3/9274d21f042e4b0ce96d2a7994ca7df98bac4f53/img/10.png",
         "fotos":["chicas-1.png","chicas-2.png","chicas-3.png"],
         "github": "https://github.com/gyacometti"
     },
