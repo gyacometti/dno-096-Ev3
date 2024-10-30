@@ -4,7 +4,7 @@
         "fecha": "1999-2002",
         "descripcion": "Sigue a Coraje, un perro tímido que vive con sus dueños en un pueblo desolado. A pesar de su naturaleza asustadiza, enfrenta todo tipo de criaturas y fenómenos sobrenaturales para proteger a sus amos. Esta serie es conocida por su mezcla de horror, comedia y surrealismo.",
         "signo": "1990s",
-        "foto": "1.png",
+        "foto": "https://raw.githubusercontent.com/gyacometti/dno-096-Ev3/refs/heads/main/img/1.png",
         "fotos":["coraje-1.png","coraje-2.png","coraje-3.png"],
         "github": "https://github.com/gyacometti"
     },
