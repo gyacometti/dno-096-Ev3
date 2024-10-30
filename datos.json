@@ -13,7 +13,7 @@
         "fecha": "2004-2009",
         "descripcion": "La historia de Mac, un niño que, al no poder quedarse con su amigo imaginario Bloo, lo lleva a la Mansión Foster, un lugar donde los amigos imaginarios esperan ser adoptados. La serie explora las divertidas y emotivas aventuras de los amigos imaginarios y sus interacciones.",
         "signo": "00s",
-        "foto": "img/2.png",
+        "foto": "2.png",
         "fotos":["mansion-1.png","mansion-2.png","mansion-3.png"],
         "github": "https://github.com/gyacometti"
     },
