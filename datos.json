@@ -71,7 +71,7 @@
         "fotos":["teen-1.png","teen-2.png","teen-3.png"],
         "github": "https://github.com/gyacometti"
     },
-     {
+    {
         "nombre": "Ed, Edd y Eddy",
         "fecha": "1999-2009",
         "descripcion":"Tres amigos con personalidades opuestas intentan hacer dinero en su vecindario a través de planes absurdos que siempre terminan en desastre. La serie es conocida por su humor físico y su retrato exagerado de la vida suburbana.",
@@ -89,7 +89,7 @@
         "fotos":["chicas-1.png","chicas-2.png","chicas-3.png"],
         "github": "https://github.com/gyacometti"
     },
-     {
+    {
         "nombre": "El Laboratorio de Dexter ",
         "fecha": "1996-2003",
         "descripcion":"Dexter es un niño genio con un laboratorio secreto, donde realiza experimentos y construye inventos increíbles. La serie sigue sus enfrentamientos con su molesta hermana Dee Dee y su rival Mandark, en una comedia de ciencia ficción y aventuras.",
@@ -98,7 +98,7 @@
         "fotos":["dexter-1.png","dexter-2.png","dexter-3.png"],
         "github": "https://github.com/gyacometti"
     },
-     {
+    {
         "nombre": "Tom y Jerry",
         "fecha": "1992-presente",
         "descripcion":"Aunque comenzó mucho antes de los 90s, se transmitió en Cartoon Network durante esa década y sigue siendo un clásico. Esta serie animada de cortos cómicos sigue la eterna rivalidad entre Tom, un gato, y Jerry, un ratón, con humor físico y acción sin diálogos.",
@@ -107,6 +107,5 @@
         "fotos":["tom-1.png","tom-2.png","tom-3.png"],
         "github": "https://github.com/gyacometti"
     }
-    
-  ]
-    
+]
+
